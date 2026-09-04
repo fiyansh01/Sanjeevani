@@ -1,0 +1,9 @@
+# The deployable Vite app is kept in the project directory.
+project/node_modules/
+project/dist/
+project/.env
+
+# Keep local editor and log files out of the repository.
+.vscode/
+.idea/
+*.log
